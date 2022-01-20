@@ -28,3 +28,7 @@ Interface: podemos especificar quais métodos as classes que implementam esta in
 
 Classe .
 Uma classe é a forma no Java onde definimos os atributos e comportamentos de um objeto.
+
+atalhos no intellij:
+psvm: Criar método main
+main: System.out.println()
