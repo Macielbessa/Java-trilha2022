@@ -23,4 +23,10 @@ public class Administrador extends Funcionario implements Autenticavel {
     }
 
 }
+// anotação @override, o que é?
+// Ele é uma forma de garantir que você está sobrescrevendo um método e não criando um novo.
 
+// o que são anotações?
+//Elas permitem que metadados sejam escritos diretamente no código.
+//Metadados são, por definição, dados que fazem referência aos próprios dados.
+// de outro modo, As anotações são especificações declarativas para informar como as ferramentas devem gerar código
