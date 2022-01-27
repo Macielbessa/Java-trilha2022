@@ -32,3 +32,9 @@ Uma classe é a forma no Java onde definimos os atributos e comportamentos de um
 atalhos no intellij:
 psvm: Criar método main
 main: System.out.println()
+
+Os métodos estáticos, quando declarados públicos, podem ser acessados diretamente a partir da classe
+sem a necessidade de declaração de objetos. Isso quer dizer que um método, para ser acessível sem a necessidade de existir um objeto da classe,
+além de ser estático, também deve ser público.
+
+()se trata de um método

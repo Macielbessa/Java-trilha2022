@@ -1,4 +1,4 @@
-package com.basico.Praticando.try_catch;
+package com.basico.Praticando.Exception.try_catch;
 
 public class Try_c {
     public static void main(String[] args) {
